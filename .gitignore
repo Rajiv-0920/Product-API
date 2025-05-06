@@ -1,0 +1,50 @@
+# Node modules (backend & frontend)
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Runtime
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Testing
+coverage/
+jest-output/
+test-results.xml
+
+# React specific
+*.cache
+.cache/
+*.tgz
+*.lock-wscript
+yarn.lock
+package-lock.json
+
+# ESLint/Prettier
+.eslintcache
+
+# Optional: macOS-specific
+.AppleDouble
+.LSOverride

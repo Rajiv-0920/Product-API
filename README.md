@@ -16,7 +16,7 @@ Welcome to my **Product Store REST API**, a fully functional backend service bui
 
 ## 🔗 Live API Endpoint
 
-🌐 [https://lnkd.in/gEBz4DZ6](https://lnkd.in/gEBz4DZ6)
+🌐 [/products]([https://lnkd.in/gEBz4DZ6](https://product-api-2qbu.onrender.com/api/products))
 
 > This is just one of many available routes. Full documentation below.
 
@@ -26,7 +26,7 @@ Welcome to my **Product Store REST API**, a fully functional backend service bui
 
 Check out the complete Postman docs for all endpoints, example requests/responses, and usage instructions:
 
-📘 [https://lnkd.in/g_HJe3VZ](https://lnkd.in/g_HJe3VZ)
+📘 [API Documentation]([https://lnkd.in/g_HJe3VZ](https://documenter.getpostman.com/view/37411269/2sB2j7cpQG))
 
 ---
 
